@@ -1,5 +1,6 @@
 # arm-for-smart_home
 include electronic photo album, environmental data detection and the Minesweeper game
+
 本项目基于粤嵌GEC6818开发板，使用c语言编写，完成了主界面点击选择和三个功能，分别是电子相册、环境数据采集与报警、扫雷小游戏。
 
 # 演示视频
